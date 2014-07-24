@@ -6,8 +6,8 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            ShawnKongA
-tagline:          Codes Will Change The World! 
+title:            ShawnKong
+tagline:          Codes Change World! 
 url:              http://getpoole.com
 paginate:         1
 baseurl:          /
