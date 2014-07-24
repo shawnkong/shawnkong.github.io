@@ -3,4 +3,4 @@ layout: post
 title: My first blog in github pages!
 ---
 
-hello,everyone!ºÃ
+hello,everyone!åŠ æ²¹
