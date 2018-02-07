@@ -18,3 +18,5 @@ title: linux 常用命令
 7.查看文件内容：cat filename
 
 8.编辑文件 vi i  编辑内容  esc :wq
+
+9.创建文件：touch filename
